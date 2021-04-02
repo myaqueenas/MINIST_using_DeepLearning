@@ -1,2 +1,2 @@
-# MINIST_using_DeepLearning
-MINIST_using_DeepLearning
+# MNIST_using_DeepLearning
+MNIST_using_DeepLearning
